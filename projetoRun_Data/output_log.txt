@@ -1,0 +1,151 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 Ti (ID=0x1380)
+    Vendor:   NVIDIA
+    VRAM:     2007 MB
+    Driver:   23.21.13.9135
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Pasta de Arquivos\projetoRun_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Pasta de Arquivos\projetoRun_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Pasta de Arquivos\projetoRun_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Pasta de Arquivos\projetoRun_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Pasta de Arquivos\projetoRun_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Pasta de Arquivos\projetoRun_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Pasta de Arquivos\projetoRun_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Pasta de Arquivos\projetoRun_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Pasta de Arquivos\projetoRun_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\Pasta de Arquivos\projetoRun_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\Pasta de Arquivos\projetoRun_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Pasta de Arquivos\projetoRun_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.740 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.639629 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.411785 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 346.
+Total: 3.057135 ms (FindLiveObjects: 0.028704 ms CreateObjectMapping: 0.015022 ms MarkObjects: 0.127425 ms  DeleteObjects: 2.884910 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+17
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+29
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+30
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+53
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+54
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+55
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+78
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+79
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+91
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+92
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+104
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+105
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.454975 ms
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 278.
+Total: 1.727351 ms (FindLiveObjects: 0.034069 ms CreateObjectMapping: 0.014486 ms MarkObjects: 0.097379 ms  DeleteObjects: 1.579269 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.267459 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 275.
+Total: 2.247247 ms (FindLiveObjects: 0.048287 ms CreateObjectMapping: 0.035947 ms MarkObjects: 0.139228 ms  DeleteObjects: 2.022173 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.248948 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 346.
+Total: 3.080743 ms (FindLiveObjects: 0.045336 ms CreateObjectMapping: 0.014754 ms MarkObjects: 0.107842 ms  DeleteObjects: 2.911200 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.454439 ms
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 278.
+Total: 1.310201 ms (FindLiveObjects: 0.025753 ms CreateObjectMapping: 0.012876 ms MarkObjects: 0.066261 ms  DeleteObjects: 1.204236 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.262898 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 275.
+Total: 2.047658 ms (FindLiveObjects: 0.023607 ms CreateObjectMapping: 0.011803 ms MarkObjects: 0.069480 ms  DeleteObjects: 1.941962 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.260484 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 346.
+Total: 3.492260 ms (FindLiveObjects: 0.063578 ms CreateObjectMapping: 0.018241 ms MarkObjects: 0.103013 ms  DeleteObjects: 3.305548 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: a30 -> priority: 1 
+  Thread -> id: 19c4 -> priority: 1 
